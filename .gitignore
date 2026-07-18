@@ -1,0 +1,6 @@
+# Локальные артефакты сборки
+_test_out.ini
+*.tsv
+build/global.ini
+build/out.ini
+__pycache__/
